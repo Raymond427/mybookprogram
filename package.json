@@ -1,0 +1,14 @@
+{
+  "name": "mybookprogram",
+  "version": "1.0.0",
+  "description": "Take Home Test for BrightMD",
+  "main": "mybookprogram.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Raymond Ferrell",
+  "license": "ISC",
+  "devDependencies": {
+    "jest-cli": "^21.1.0"
+  }
+}
