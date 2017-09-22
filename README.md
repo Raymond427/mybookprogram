@@ -16,7 +16,7 @@ To build the app, be sure you have these installed:
 
     `sudo apt-get install npm`
 
-* request
+* Jest
 
     `npm install --save-dev jest-cli`
 
