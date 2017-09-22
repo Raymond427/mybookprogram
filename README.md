@@ -22,8 +22,8 @@ To build the app, be sure you have these installed:
 
 #### Running the Application Locally
 
-    `node mybookprogram [ENTER WORDS HERE]`
+    node mybookprogram [ENTER WORDS HERE]
 
 #### Running the Test Suite
 
-    `npm t`
+    npm t
